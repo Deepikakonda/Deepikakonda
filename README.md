@@ -19,7 +19,7 @@
 🎓 **Master's in Computer Science** from Clark University (Dec 2025) | **STEM Graduate**  
 💼 Currently working as a **Full-Stack Developer Intern** at Voulay LLC  
 🌟 Former **System Engineer** at Tata Consultancy Services with **2.5+ years** of experience  
-🏆 **"Best MCM Employee"** award winner out of 85+ associates at TCS  
+🏆 **"Best MCM Employee"** award nominee out of 85+ associates at TCS  
 ☁️ **AWS Cloud Practitioner** certified professional  
 
 ```javascript
@@ -68,7 +68,7 @@ const deepika = {
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ---
-
+<!--
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -81,7 +81,7 @@ const deepika = {
 </div>
 
 ---
-
+-->
 ## 🏆 Professional Highlights
 
 <div align="center">
@@ -96,6 +96,7 @@ const deepika = {
 
 </div>
 
+<!--
 ---
 
 ## 🚀 Featured Projects
@@ -123,7 +124,7 @@ const deepika = {
 - Improved operational efficiency by **50%**
 
 ---
-
+-->
 ## 💼 Professional Experience
 
 ### 🔥 **Current Role: Full-Stack Developer Intern @ Voulay LLC**
